@@ -26,11 +26,9 @@
 - R
 
 <!-- Connect section -->
-
-<h2>Connect with me: </h3>
-    <p>
-        <a href="mailto:abd.azizyusif@gmail.com"><img src="https://img.shields.io/badge/-Abdul%20Aziz-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:abiolaabolade1@gmail.com" alt="Gmail Badge"></a>
-   </p>
+---
+- 📫 Kindly reach me **abd.azizyusif@gmail.com**
+     
    
  <!-- Conecct section: END -->
 
