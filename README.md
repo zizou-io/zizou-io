@@ -3,14 +3,14 @@
 <!-- Animation Typing -->
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=Abdul+Aziz,+here!!!;I+am+a+Data+/+Business+Analyst.;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=Abdul+Aziz,+here!!!;A+Data+/+Business+Intelligence+Analyst.;"></a>
 </p>
 
 <!-- Animation Typing: END -->
 
 
 <!--Image Gif-->
-<img  src="https://media.tenor.com/A5eDh9nWrqYAAAAd/working-from.gif" height="250px" align="right" />
+<img  src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif" height="250px" align="right" />
 
 - 🔭 I specialize in assessing, cleaning, modelling, and analyzing datasets to provide insightful solutions for data-related challenges.
 - 🌱 My focus is on analyzing and visualizing data to facilitate informed decision-making, with a keen eye for detail.
