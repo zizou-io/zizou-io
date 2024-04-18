@@ -27,7 +27,7 @@
 
 <!-- Connect section -->
 ---
-- 📫 Kindly reach me **abd.azizyusif@gmail.com**
+- 📫 Kindly reach me via **abd.azizyusif@gmail.com**
      
    
  <!-- Conecct section: END -->
