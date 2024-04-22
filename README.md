@@ -15,15 +15,22 @@
 - 🔭 I specialize in assessing, cleaning, modelling, and analyzing datasets to provide insightful solutions for data-related challenges.
 - 🌱 My focus is on analyzing and visualizing data to facilitate informed decision-making, with a keen eye for detail.
 - 👯 I'm eager to collaborate with fellow professionals in the data analytics and data science realms.
-- 🤔 I'm seeking assistance with job opportunities and potential collaborations.
 - 💬 Feel free to ask me about data analytics.
 - ⚡ Fun fact: I have a passion for anything sports-related.
+
+--- 
 
 - ## Tools I Use:
 - Microsoft Excel
 - Power BI
 - SQL
 - R
+---
+  ## 📚 Currently Learning
+  I'm constantly expanding my knowledge and mastering new techniques. Currently, I'm diving deeper into:
+- Advanced machine learning algorithms &
+- Cloud-based data analytics platforms
+<!--
 
 <!-- Connect section -->
 ---
