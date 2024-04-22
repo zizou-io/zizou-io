@@ -20,11 +20,11 @@
 
 --- 
 
-- ## Tools I Use:
-- Microsoft Excel
-- Power BI
-- SQL
-- R
+- ## 💡 Tools I Use:
+- Microsoft Excel / Google Sheets: Query, VLookup, Pivot table
+- SQL: Subqueries, Window functions
+- R: dplyr, ggplot2, sqldf
+- Data Visualization: Power BI & Tableau
 ---
   ## 📚 Currently Learning
   I'm constantly expanding my knowledge and mastering new techniques. Currently, I'm diving deeper into:
