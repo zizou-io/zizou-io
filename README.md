@@ -22,7 +22,7 @@
 
 - ## 💡 Tools I Use:
 - Microsoft Excel / Google Sheets: Query, VLookup, Pivot table
-- SQL: Subqueries, Window functions
+- SQL: Subqueries, Window functions, CTE
 - R: dplyr, ggplot2, sqldf
 - Data Visualization: Power BI & Tableau
 ---
